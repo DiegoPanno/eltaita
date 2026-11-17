@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#090d16" />
+  <!-- Flecha gris izquierda -->
+  <polygon points="8,24 19,24 25,31 19,38 8,38 14,31" fill="#cbd5e1" />
+  <!-- Flecha azul derecha -->
+  <polygon points="21,24 31,24 37,31 31,38 21,38 27,31" fill="#0ea5e9" />
+  <!-- Plancha base -->
+  <rect x="8" y="40" width="32" height="3.5" rx="1.5" fill="#e2e8f0" />
+  <!-- Cabina de grúa -->
+  <path d="M40 22 H49 L55 31 V43.5 H40 Z" fill="#cbd5e1" />
+  <!-- Ventana cabina -->
+  <polygon points="43,25 48,25 51,30 43,30" fill="#090d16" />
+  <!-- Guardabarros azul -->
+  <path d="M42 43.5 A6 6 0 0 1 54 43.5" fill="none" stroke="#0ea5e9" stroke-width="3" />
+</svg>
